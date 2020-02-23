@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hello,git rebase!
+=======
+Nothig happens
+there is something wrong
+how do you do
+
+Hello,World!
+>>>>>>> Adding new line feature

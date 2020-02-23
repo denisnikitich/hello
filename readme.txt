@@ -1,2 +1,4 @@
-bue bue bue
-hi hi hi
+Новый проект
+Другая строка
+
+Hello,Git!
